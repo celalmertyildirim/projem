@@ -1,0 +1,2 @@
+print("İsraili bombaladim")
+
